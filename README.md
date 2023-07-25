@@ -31,6 +31,7 @@ El proyecto está organizado de la siguiente manera:
 Con esta organización, el proyecto está estructurado de manera más coherente y facilita la ubicación de los componentes específicos de la aplicación. Además, la estructura sigue las mejores prácticas de desarrollo con Java Spring y promueve un código limpio y mantenible.
 
 # 💻 Tech Stack:
+
 🔹 Java Spring: Utilicé el framework Spring para desarrollar el backend de la aplicación, gestionar las operaciones CRUD (Crear, Leer, Actualizar, Eliminar) de las noticias y gestionar la lógica de negocio.
 
 🔹 HTML: El frontend de la aplicación está construido utilizando HTML, lo que permite a los usuarios acceder y ver las noticias de manera interactiva y amigable.
