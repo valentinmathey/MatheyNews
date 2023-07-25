@@ -1,7 +1,7 @@
 # 📰 Proyecto de Portal de Noticias
 ¡Bienvenido al repositorio de mi proyecto de Portal de Noticias! En este proyecto, desarrollé un sistema completo utilizando Java Spring como backend y HTML para el frontend. El objetivo del proyecto es permitir a los usuarios acceder a las últimas noticias, agregar nuevas noticias y modificar las existentes. Además, decidí agregar un apartado adicional para mostrar videos o capturas de pantalla relevantes relacionados con las noticias.
 
-## 🎥 Apartado de Video
+## 🎥 Vista Previa
 ![Please sign in - Google Chrome 2023-07-25 16-49-44](https://github.com/valentinmathey/MatheyNews/assets/108497495/24b874ec-59c4-488e-b698-ccd9eed0687d)
 
 ## 📂Estructura del Proyecto
