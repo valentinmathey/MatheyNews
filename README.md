@@ -4,29 +4,29 @@
 ## 🎥 Vista Previa
 ![Please sign in - Google Chrome 2023-07-25 16-49-44](https://github.com/valentinmathey/MatheyNews/assets/108497495/24b874ec-59c4-488e-b698-ccd9eed0687d)
 
-## 📂Estructura del Proyecto
+## 📋Estructura del Proyecto
 
 El proyecto está organizado de la siguiente manera:
 
-👨‍💻 MatheyNews/src/main/java/com/mathey/news: Contiene todos los componentes relacionados con el backend de la aplicación.
+📂 MatheyNews/src/main/java/com/mathey/news: Contiene todos los componentes relacionados con el backend de la aplicación.
 
-    🎮 controladores: En esta carpeta se encuentran los controladores de Spring, que gestionan las solicitudes HTTP y definen las rutas para acceder a las funcionalidades de las noticias y los videos/capturas de pantalla.
+    📁 controladores: En esta carpeta se encuentran los controladores de Spring, que gestionan las solicitudes HTTP y definen las rutas para acceder a las funcionalidades de las noticias y los videos/capturas de pantalla.
 
-    📄 entidades: Aquí se definen las entidades JPA que representan las tablas de la base de datos, como la entidad de Noticia y la entidad de Multimedia para los videos o capturas de pantalla asociados.
+    📁 entidades: Aquí se definen las entidades JPA que representan las tablas de la base de datos, como la entidad de Noticia y la entidad de Multimedia para los videos o capturas de pantalla asociados.
 
-    🔢 enums: Contiene clases enum que definen valores constantes utilizados en el proyecto, como categorías de noticias o tipos de multimedia.
+    📁 enums: Contiene clases enum que definen valores constantes utilizados en el proyecto, como categorías de noticias o tipos de multimedia.
 
-    🔥 excepciones: En esta carpeta se encuentran las clases personalizadas de excepciones para manejar situaciones excepcionales en la aplicación.
+    📁 excepciones: En esta carpeta se encuentran las clases personalizadas de excepciones para manejar situaciones excepcionales en la aplicación.
 
-    💾 repositorio: Aquí se definen los repositorios JPA que interactúan con la base de datos para realizar operaciones de acceso a datos.
+    📁 repositorio: Aquí se definen los repositorios JPA que interactúan con la base de datos para realizar operaciones de acceso a datos.
 
-    🛠️ servicios: Contiene los servicios de Spring que implementan la lógica de negocio relacionada con las noticias y los multimedia.
+    📁 servicios: Contiene los servicios de Spring que implementan la lógica de negocio relacionada con las noticias y los multimedia.
 
 📂 MatheyNews/src/main/resources: Contiene archivos de configuración, plantillas HTML utilizando Thymeleaf y archivos de propiedades.
 
     📁 static: Aquí se encuentran los recursos estáticos, como archivos CSS o JavaScript, utilizados en el frontend de la aplicación.
 
-    📃 templates: Contiene las plantillas HTML que utilizan Thymeleaf para integrar el backend de Spring con el frontend, permitiendo la visualización dinámica de los datos.
+    📁 templates: Contiene las plantillas HTML que utilizan Thymeleaf para integrar el backend de Spring con el frontend, permitiendo la visualización dinámica de los datos.
 
 Con esta organización, el proyecto está estructurado de manera más coherente y facilita la ubicación de los componentes específicos de la aplicación. Además, la estructura sigue las mejores prácticas de desarrollo con Java Spring y promueve un código limpio y mantenible.
 
