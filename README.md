@@ -4,7 +4,7 @@
 ## 🎥 Vista Previa
 ![Please sign in - Google Chrome 2023-07-25 16-49-44](https://github.com/valentinmathey/MatheyNews/assets/108497495/24b874ec-59c4-488e-b698-ccd9eed0687d)
 
-## 📋Estructura del Proyecto
+## 🗂️ Estructura del Proyecto
 
 El proyecto está organizado de la siguiente manera:
 
