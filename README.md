@@ -31,14 +31,22 @@ El proyecto está organizado de la siguiente manera:
 Con esta organización, el proyecto está estructurado de manera más coherente y facilita la ubicación de los componentes específicos de la aplicación. Además, la estructura sigue las mejores prácticas de desarrollo con Java Spring y promueve un código limpio y mantenible.
 
 # 💻 Tech Stack:
-
-🔹 Java Spring: Utilicé el framework Spring para desarrollar el backend de la aplicación, gestionar las operaciones CRUD (Crear, Leer, Actualizar, Eliminar) de las noticias y gestionar la lógica de negocio.
-
-🔹 HTML: El frontend de la aplicación está construido utilizando HTML, lo que permite a los usuarios acceder y ver las noticias de manera interactiva y amigable.
-
-🔹 MySQL: Para el almacenamiento de datos, utilicé una base de datos MySQL para almacenar la información de las noticias y los videos/capturas de pantalla asociados.
-
-🔹 Thymeleaf: Utilicé Thymeleaf como motor de plantillas para integrar el backend de Spring con el frontend en HTML, lo que facilita la visualización dinámica de los datos en las páginas web.
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://www.thymeleaf.org/images/thymeleaf.png" height="40" alt="materialui logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1200px-Apache_NetBeans_Logo.svg.png" height="40" alt="visualstudio logo"  />
+  <img width="12" />
+</div>
 
 # 🧑🏻‍💻 Autor:
 
