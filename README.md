@@ -4,6 +4,10 @@
 ## 🎥 Vista Previa
 ![Please sign in - Google Chrome 2023-07-25 16-49-44](https://github.com/valentinmathey/MatheyNews/assets/108497495/24b874ec-59c4-488e-b698-ccd9eed0687d)
 
+## 🛠️ Instalación
+• Java: 17 <br>
+• Spring Boot: 2.7.8
+
 ## 🗂️ Estructura del Proyecto
 
 El proyecto está organizado de la siguiente manera:
